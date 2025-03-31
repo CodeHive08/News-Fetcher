@@ -4,7 +4,7 @@ markdown
 
 
 A simple Streamlit application that allows users to fetch news articles based on their interests. Users can input a news category (e.g., technology, sports, health) and receive relevant news articles from the NewsAPI.
-
+you can see the preview of the website here:https://newsfetcherz.streamlit.app/
 
 ## Features
 
