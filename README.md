@@ -41,33 +41,35 @@ you can see the preview of the website here:https://newsfetcherz.streamlit.app/
 
 1. Clone the repository:
 
-   
+   ```
 
-   git clone https://github.com/yourusername/news-fetcher-app.git
+   git clone https://github.com/CodeHive08/news-fetcher-app.git
 
    cd news-fetcher-app
-
+```
     Create a virtual environment (optional but recommended):
 
-
+```
     bash
 
 python -m venv venv
 
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
 Install the required packages:
-
+```
 bash
 
 pip install -r requirements.txt
+```
 
 Run the Streamlit app:
-
+```
 bash
 
     streamlit run news_app.py
-
+````
     Open your web browser and go to http://localhost:8501 to view the app.
 
 Usage
